@@ -2,7 +2,7 @@
 
 Estudiante de Ciencias de la Computación (UPC), último ciclo — egreso en diciembre de 2026. Practicante en Marketing Operations en Merck Peruana, donde trabajo con automatización en Python, consultas SQL sobre Salesforce y SAP, y dashboards en Tableau para reporting de KPIs.
 
-Interesado en Data Analytics / Data Science y en el sector energético. Actualmente en proceso de postulación a maestrías en Europa (programas DAAD EPOS y Erasmus Mundus).
+Interesado en Data Analytics / Data Science 
 
 LinkedIn: https://www.linkedin.com/in/joaquín-arévalo-alcántara-data
 
